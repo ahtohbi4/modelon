@@ -1,0 +1,24 @@
+{
+  "name": "modelon",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahtohbi4/modelon.git"
+  },
+  "author": {
+    "name": "Alexander Antonov",
+    "email": "alexandr-post@yandex.ru"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahtohbi4/modelon/issues"
+  },
+  "homepage": "https://github.com/ahtohbi4/modelon#readme",
+  "peerDependencies": {
+    "storeon": "0.x"
+  }
+}
